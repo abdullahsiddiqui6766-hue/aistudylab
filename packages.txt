@@ -1,0 +1,4 @@
+# Streamlit Community Cloud reads this file and installs these apt packages
+# before installing requirements.txt. This installs the Tesseract OCR engine
+# so pytesseract has something to call.
+tesseract-ocr
